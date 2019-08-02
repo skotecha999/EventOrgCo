@@ -1,0 +1,82 @@
+3:39|1:47|2:59|4:66|0:72|
+3         |1         |byron                         |9627192426          |byron@gmail.com               
+3         |2         |vincent                       |9510464002          |vincent@gmail.com             
+3         |3         |kimberly                      |9965804095          |kimberly@gmail.com            
+3         |4         |quyn                          |9597209306          |quyn@gmail.com                
+3         |5         |chaim                         |9870759532          |chaim@gmail.com               
+3         |6         |myles                         |9316469426          |myles@gmail.com               
+3         |7         |lester                        |9199749997          |lester@gmail.com              
+3         |8         |abdul                         |9460410107          |abdul@gmail.com               
+3         |9         |alfonso                       |9327536575          |alfonso@gmail.com             
+3         |10        |howard                        |9939370214          |howard@gmail.com              
+3         |11        |tanisha                       |9736303405          |tanisha@gmail.com             
+3         |12        |boris                         |9563813805          |boris@gmail.com               
+3         |13        |wilma                         |9709725047          |wilma@gmail.com               
+3         |14        |carly                         |9726459723          |carly@gmail.com               
+3         |15        |hunter                        |9593079450          |hunter@gmail.com              
+3         |16        |sage                          |9907295465          |sage@gmail.com                
+3         |17        |phelan                        |9737126096          |phelan@gmail.com              
+3         |18        |hayfa                         |9218781629          |hayfa@gmail.com               
+3         |19        |carson                        |9672059077          |carson@gmail.com              
+3         |20        |laurel                        |9739924111          |laurel@gmail.com              
+3         |21        |tatum                         |9196185871          |tatum@gmail.com               
+3         |22        |aaron                         |9224558862          |aaron@gmail.com               
+3         |23        |gloria                        |9759332845          |gloria@gmail.com              
+3         |24        |rooney                        |9217586860          |rooney@gmail.com              
+3         |25        |louis                         |9626468615          |louis@gmail.com               
+3         |26        |maggy                         |9537190258          |maggy@gmail.com               
+3         |27        |duncan                        |9877098376          |duncan@gmail.com              
+3         |28        |alyssa                        |9564099261          |alyssa@gmail.com              
+3         |29        |adrian                        |9669550633          |adrian@gmail.com              
+3         |30        |lael                          |9510599703          |lael@gmail.com                
+3         |31        |henry                         |9786151521          |henry@gmail.com               
+3         |36        |jakeem                        |9786151521          |jakeem@gmail.com              
+3         |39        |jana                          |9028369580          |jana@gmail.com                
+3         |50        |merrill                       |9769996837          |merrill@gmail.com             
+3         |55        |wing                          |9518012779          |wing@gmail.com                
+3         |60        |sigourney                     |9821286018          |sigourney@gmail.com           
+3         |67        |may                           |9472435349          |may@gmail.com                 
+3         |71        |camilla                       |9006416338          |camilla@gmail.com             
+1         |32        |hadassah                      |9384926341          |hadassah@gmail.com                    
+1         |37        |ursula                        |9424133386          |ursula@gmail.com              
+1         |38        |graiden                       |9547305779          |graiden@gmail.com             
+1         |43        |blair                         |9237171685          |blair@gmail.com               
+1         |47        |rhiannon                      |9231367083          |rhiannon@gmail.com            
+1         |53        |hasad                         |9146159452          |hasad@gmail.com               
+1         |58        |jesse                         |9471140742          |jesse@gmail.com               
+1         |64        |lance                         |9267361550          |lance@gmail.com               
+2         |33        |mia                           |9174582245          |mia@gmail.com                 
+2         |34        |aiko                          |9829498304          |aiko@gmail.com                
+2         |35        |fleur                         |9986379044          |fleur@gmail.com               
+2         |41        |cassandra                     |9050994892          |cassandra@gmail.com           
+2         |42        |nina                          |9394257408          |nina@gmail.com                
+2         |48        |garth                         |9642275978          |garth@gmail.com               
+2         |49        |mufutau                       |9337424256          |mufutau@gmail.com             
+2         |54        |cheryl                        |9323196890          |cheryl@gmail.com              
+2         |59        |rudyard                       |9169074078          |rudyard@gmail.com             
+2         |65        |xavier                        |9172610905          |xavier@gmail.com              
+2         |66        |venus                         |9746953111          |venus@gmail.com               
+2         |70        |octavia                       |9694873405          |octavia@gmail.com             
+4         |40        |penelope                      |9465023077          |penelope@gmail.com            
+4         |51        |brynn                         |9938983375          |brynn@gmail.com               
+4         |52        |hashim                        |9119043467          |hashim@gmail.com              
+4         |56        |ivor                          |9988956545          |ivor@gmail.com                
+4         |61        |alexandra                     |9188559799          |alexandra@gmail.com           
+4         |62        |leah                          |9890720879          |leah@gmail.com                
+4         |68        |dahlia                        |9064455395          |dahlia@gmail.com              
+0         |44        |benjamin                      |9163829740          |benjamin@gmail.com            
+0         |45        |halla                         |9051612303          |halla@gmail.com               
+0         |46        |ryan                          |9173843270          |ryan@gmail.com                
+0         |57        |carlos                        |9720421056          |carlos@gmail.com              
+0         |63        |hollee                        |9619675255          |hollee@gmail.com              
+0         |69        |kessie                        |9405156401          |kessie@gmail.com              
+
+
+
+
+
+
+
+
+
+

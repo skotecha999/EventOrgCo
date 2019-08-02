@@ -1,0 +1,30 @@
+0:4|1:9|2:11|4:13|3:19|as:20|
+0         |Blossom                       |9460410107          |Fresh Flowers                                     |12000               
+0         |BigBites                      |9563813805          |Food Catering                                     |50000               
+0         |BigBang                       |9709725047          |Fireworks                                         |25000               
+1         |BigBites                      |9563813805          |Food Catering                                     |120000              
+1         |WipeOut                       |9870759532          |Cleaning crew                                     |35000               
+1         |SecWiz                        |9316469426          |Security                                          |20000               
+1         |LaxmiLawns                    |9726459723          |Venue                                             |150000              
+1         |Funtoosh                      |9877098444          |Rides                                             |120000              
+2         |BigBites                      |9563813805          |Food Catering                                     |8000                
+2         |Blossom                       |9460410107          |Fresh Flowers                                     |4000                
+4         |SecWiz                        |9316469426          |Security                                          |4000                
+4         |cineplex                      |9626468615          |Outdoor projector eqip.                           |12000               
+3         |Blossom                       |9460410107          |Fresh Flowers                                     |120000              
+3         |BigBites                      |9563813805          |Food Catering                                     |300000               
+3         |BigBang                       |9709725047          |Fireworks                                         |250000              
+3         |SecWiz                        |9316469426          |Security                                          |120000              
+3         |WipeOut                       |9870759532          |Cleaning crew                                     |75000               
+3         |KLDlawns                      |9877098376          |Venue                                             |1000000             
+                  
+
+
+
+
+
+
+
+
+
+

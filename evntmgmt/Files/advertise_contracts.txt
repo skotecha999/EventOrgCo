@@ -1,0 +1,4 @@
+1:3|3:4|
+1         |Instagram                     |advert@instagram.comMumbai              |Mumbai                                  |10000               |25000               
+1         |Facebook                      |ads@fb.com                              |Mumbai                                  |3000                |6000                
+3         |GetSeen                       |mgmtgtsn@gmail.com                      |india                                   |200000              |130000              

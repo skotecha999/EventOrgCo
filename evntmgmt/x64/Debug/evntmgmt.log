@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\skote\Desktop\projects\fs- event mgmt\evntmgmt\main.cpp(36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\skote\Desktop\projects\fs- event mgmt\evntmgmt\main.cpp(77): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\skote\Desktop\projects\fs- event mgmt\evntmgmt\main.cpp(132): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\skote\Desktop\projects\fs- event mgmt\evntmgmt\main.cpp(163): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\skote\Desktop\projects\fs- event mgmt\evntmgmt\main.cpp(195): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\skote\Desktop\projects\fs- event mgmt\evntmgmt\main.cpp(267): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\skote\Desktop\projects\fs- event mgmt\evntmgmt\main.cpp(299): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\skote\Desktop\projects\fs- event mgmt\evntmgmt\main.cpp(313): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\skote\Desktop\projects\fs- event mgmt\evntmgmt\main.cpp(288): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\skote\Desktop\projects\fs- event mgmt\evntmgmt\main.cpp(334): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\skote\Desktop\projects\fs- event mgmt\evntmgmt\main.cpp(357): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  evntmgmt.vcxproj -> C:\Users\skote\Desktop\projects\fs- event mgmt\evntmgmt\x64\Debug\evntmgmt.exe

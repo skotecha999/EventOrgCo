@@ -1,0 +1,6 @@
+4:2|3:4|1:6|
+4         |Spotify                       |9907295465          |ads@spotify.com                         |45000               
+3         |Toyota                        |9218781629          |mgmt@toyotamotors.in300000              |300000              
+3         |Samsung                       |9196185871          |tatum@gmail.com                         |600000              
+1         |GaneshChats                   |9669550633          |rahul@gmail.com                         |80000               
+1         |DailyTrends                   |9593079450          |saxena@rediffmail.co50000               |50000               

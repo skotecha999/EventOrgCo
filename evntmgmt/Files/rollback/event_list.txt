@@ -1,0 +1,6 @@
+0         |WeddingAniversaBangalore      |Bangalore                               |02-03-20200         |1    |0    
+1         |Carnival                      |Mumbai                                  |20-06-20191         |3    |150  
+2         |Birthday                      |Mumbai                                  |20-10-20192         |1    |0    
+3         |FilmAwards                    |Delhi                                   |28-12-20193         |1    |2000 
+4         |MovieNight                    |Bangalore                               |30-05-20194         |1    |300  
+
